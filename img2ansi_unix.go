@@ -5,7 +5,7 @@ package main
 import (
 	"os"
 
-	"code.google.com/p/gosshold/ssh/terminal"
+	"github.com/e11it/gosshold/tree/master/ssh/terminal"
 )
 
 func getTermDim() (w, h int, err error) {
